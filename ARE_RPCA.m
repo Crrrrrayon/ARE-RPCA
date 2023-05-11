@@ -19,9 +19,7 @@ function [L, S, iter, psnr_n] = ARE_RPCA(D, A)
 %   This release is for research usage.
 %   Email me with questions and comments: xuzhengqin@wust.edu.cn, I'll help you.
 %
-%                                                                   Seoul, Korea.
-%                                                                   Jan.
-%                                                                   3. 2014.
+%                                                                  
 %
 %%
 [m n] = size(D);
